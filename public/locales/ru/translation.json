@@ -1,0 +1,38 @@
+{
+    "Search": "Поиск",
+    "header": {
+        "AppName": "Список дел",
+        "Logout": "Выйти"
+    },
+    "mobileMenu": {
+        "Switch theme": "Сменить тему",
+        "Change language": "Сменить язык"
+    },
+    "mainPage": {
+        "progress": "прогресс",
+        "Lists not founded": "Списков не найдено",
+        "Create new list": "Создать новый список",
+        "created date": "дата создания",
+        "Edit": "Изменить"
+    },
+    "ListModal": {
+        "Create new list": "Создать новый список",
+        "List Name": "Название списка *",
+        "Task Name": "Название задачи *",
+        "Delete list": "Удалить список",
+        "Add task": "Добавить задание",
+        "Update": "Обновить",
+        "Create": "Создать"
+    },
+    "SignInPage": {
+        "Sign in": "Войти",
+        "Login": "Email *",
+        "Password": "Пароль *",
+        "Create a new account": "Создать новый аккаунт"
+    },
+    "SignUpPage": {
+        "Sign up": "Зарегестрироваться",
+        "Display Name": "Отображаемое имя",
+        "Go to sign in": "Перейти к авторизации"
+    }
+}
